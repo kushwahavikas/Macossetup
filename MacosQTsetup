@@ -1,0 +1,5 @@
+How to setup Qt creator [if you are facing any network error] 
+-- Download the Qt installer dmg file 
+-- open the move the dmg file ,Move the .app file to the Desktop
+-- Open the terminal ,go to desktop , run the following command 
+ sudo open qt-unified-macOS-x64-4.6.1-online.app --args --mirror http://qt.mirror.constant.com
